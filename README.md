@@ -24,3 +24,6 @@
 * Sibsp & Parch represents Define family relations, including siblings, spouses, parents, and children. Some children traveled solely with a nanny, leading to a parch value of 0 for them.
 
 **This dataset offers a rich array of features for predictive modeling, encouraging exploration and analysis to uncover insights regarding survival patterns aboard the Titanic**
+
+
+Auto update via n8n: 1775646702
